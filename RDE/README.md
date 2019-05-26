@@ -1,3 +1,1 @@
-README for RDE data
- lnsoe
-from 22211
+Play on the code and create
